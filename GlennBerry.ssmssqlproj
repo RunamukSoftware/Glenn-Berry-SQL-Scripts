@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GlennBerry">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local):NA\greentx">
+          <Created>2016-08-08T07:03:25.1641723-07:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>portal-MobileInfirmary1</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ICSDEVSQL14.etlabnet.local:NA\greentx">
+          <Created>2017-09-28T12:07:25.8165901-07:00</Created>
+          <Type>SQL</Type>
+          <Server>ICSDEVSQL14.etlabnet.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>PortalPerf</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="PER720-01.etlabnet.local\ICS52DB:sa">
+          <Created>2016-07-13T07:45:36.9964992-07:00</Created>
+          <Type>SQL</Type>
+          <Server>PER720-01.etlabnet.local\ICS52DB</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="per720-01.etlabnet.local\icsdb:sa">
+          <Created>2018-01-31T09:17:58.6413749-08:00</Created>
+          <Type>SQL</Type>
+          <Server>per720-01.etlabnet.local\icsdb</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="per730xd.etlabnet.local:NA\greentx">
+          <Created>2016-04-26T08:15:18.8215514-07:00</Created>
+          <Type>SQL</Type>
+          <Server>per730xd.etlabnet.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="per730xd.etlabnet.local:NA\greentx">
+          <Created>2017-06-19T17:26:54.3520465-07:00</Created>
+          <Type>SQL</Type>
+          <Server>per730xd.etlabnet.local</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="per730xd.etlabnet.local:sa">
+          <Created>2017-07-12T08:33:40.1848096-07:00</Created>
+          <Type>SQL</Type>
+          <Server>per730xd.etlabnet.local</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="PER730XD.etlabnet.local\SS17:NA\greentx">
+          <Created>2018-01-05T12:59:28.1777291-08:00</Created>
+          <Type>SQL</Type>
+          <Server>PER730XD.etlabnet.local\SS17</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="PER730XDVM1.etlabnet.local:sa">
+          <Created>2018-01-05T12:27:07.7057933-08:00</Created>
+          <Type>SQL</Type>
+          <Server>PER730XDVM1.etlabnet.local</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>Test</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="TONYICSTEST1:NA\greentx">
+          <Created>2017-05-09T07:56:04.3375885-07:00</Created>
+          <Type>SQL</Type>
+          <Server>TONYICSTEST1</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="TONYICSTEST2:NA\greentx">
+          <Created>2016-04-26T15:11:51.8449302-07:00</Created>
+          <Type>SQL</Type>
+          <Server>TONYICSTEST2</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01_Bad Man List for Stored Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local):True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_Bad Man List for Stored Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01_IO Related DMV Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_IO Related DMV Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01_Measuring Sequential  Read Throughput.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01_Measuring Sequential  Read Throughput.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_Index Tuning Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_Index Tuning Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02_IO Related DMV Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TONYICSTEST2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TONYICSTEST2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02_IO Related DMV Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03_Using Buffer Pool Extensions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03_Using Buffer Pool Extensions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03a_Using Buffer Pool Extensions Two.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TONYICSTEST2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TONYICSTEST2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03a_Using Buffer Pool Extensions Two.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08_Changing Instance-level Configuration Settings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08_Changing Instance-level Configuration Settings.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Using Alter Database Scoped Configuration in SQL Server 2016.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Using Alter Database Scoped Configuration in SQL Server 2016.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10_Index Tuning Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TONYICSTEST2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TONYICSTEST2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_Index Tuning Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_Using SQL Server Data Compression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_Using SQL Server Data Compression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11a_More SQL Server Data Compression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11a_More SQL Server Data Compression.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12_Using Clustered Columnstore Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_Using Clustered Columnstore Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13_Bad Man List for Stored Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13_Bad Man List for Stored Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14_Using Resource Governor Setup.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14_Using Resource Governor Setup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14a_Using Resource Governor Testing.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14a_Using Resource Governor Testing.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Add SQL Server Agent Alerts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Add SQL Server Agent Alerts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Azure SQL Database Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Azure SQL Database Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CheckSpectreMeltdownStatus.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CheckSpectreMeltdownStatus.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Create ServerMonitor Database and Job.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Create ServerMonitor Database and Job.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Finding Blocked Processes and Deadlocks using SQL Server Extended Events.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Finding Blocked Processes and Deadlocks using SQL Server Extended Events.sql</FullPath>
+        </FileNode>
+        <FileNode Name="make_big_adventure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>make_big_adventure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="make_big_adventureCCSI.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>make_big_adventureCCSI.sql</FullPath>
+        </FileNode>
+        <FileNode Name="make_big_adventurePageCompressed.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>make_big_adventurePageCompressed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="make_big_adventureRowCompressed.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:per730xd.etlabnet.local:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>per730xd.etlabnet.local</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>make_big_adventureRowCompressed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Some ServerMonitor Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Some ServerMonitor Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2005 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2005 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2008 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2008 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2008 R2 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2008 R2 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2012 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2012 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2014 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2014 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2016 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2016 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2016 SP2 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2016 SP2 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2017 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PER730XD.etlabnet.local\SS17:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PER730XD.etlabnet.local\SS17</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2017 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2019 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2019 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

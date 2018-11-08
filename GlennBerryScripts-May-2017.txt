@@ -1,0 +1,15 @@
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202017%20Diagnostic%20Information%20Queries%20%28May%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202017%20Diagnostic%20Results%20%28May%202017%29.xlsx
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202016%20Diagnostic%20Information%20Queries%20%28May%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202016%20Diagnostic%20Results%20%28May%202017%29.xlsx
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202014%20Diagnostic%20Information%20Queries%20%28May%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202014%20Diagnostic%20Results%20%28May%202017%29.xlsx
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202012%20Diagnostic%20Information%20Queries%20%28May%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202012%20Diagnostic%20Results%20%28May%202017%29.xlsx
+
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202008%20R2%20Diagnostic%20Information%20Queries%20%28CY%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202008%20R2%20Diagnostic%20Results%20%28CY%202017%29.xlsx
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202008%20Diagnostic%20Information%20Queries%20%28CY%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202008%20Diagnostic%20Results%20%28CY%202017%29.xlsx
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202005%20Diagnostic%20Information%20Queries%20%28CY%202017%29.sql
+https://dl.dropboxusercontent.com/u/13748067/SQL%20Server%202005%20Diagnostic%20Results%20%28CY%202017%29.xlsx
